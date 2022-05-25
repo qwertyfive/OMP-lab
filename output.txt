@@ -1,0 +1,2 @@
+This poligon is not inside Circle
+0.235
